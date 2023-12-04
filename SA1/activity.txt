@@ -1,0 +1,3 @@
+1. Download and install the VMware using the link: https://www.vmware.com/in/products/fusion/fusion-evaluation.html
+2. Download and install the Kali Linux using the link: https://www.kali.org/get-kali/#kali-installer-images
+3. Create a virtual machine with kali Linux.
